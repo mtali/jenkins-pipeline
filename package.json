@@ -1,0 +1,15 @@
+{
+  "name": "jenkins-pipeline",
+  "version": "1.0.0",
+  "description": "Learning jenkins pipeline CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Emmanuel Mtali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jasmine": "^4.0.2"
+  }
+}
